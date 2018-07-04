@@ -20,5 +20,5 @@ const config = {
     api: 'https://translation.googleapis.com/language/translate/v2'
   }
 };
-module.exports = config;
+module.exports = config; 
 ```
