@@ -5,6 +5,9 @@
 Kita is an app design for simplicity, utilizing your phones camera along with Google's cloud and translate
 api to provide accurate transaltion when taking a picture.
 
+[Watch our presentation](https://www.youtube.com/watch?v=GY94jbVQubs&feature=youtu.be)
+
+
 ### How to install
 
 - clone repo and npm install
