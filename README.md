@@ -7,6 +7,7 @@ api to provide accurate transaltion when taking a picture.
 
 [Watch our presentation](https://www.youtube.com/watch?v=GY94jbVQubs&feature=youtu.be)
 
+<img src="./kita.gif" width="150">
 
 ### How to install
 
@@ -23,5 +24,5 @@ const config = {
     api: 'https://translation.googleapis.com/language/translate/v2'
   }
 };
-module.exports = config; 
+module.exports = config;
 ```
